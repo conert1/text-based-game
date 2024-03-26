@@ -1,8 +1,6 @@
 ## Robot World
 
 
-## Team 21DBN02
-
 ## Dependencies
 
 # For testing
